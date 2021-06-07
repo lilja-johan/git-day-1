@@ -8,4 +8,7 @@ public class Main {
     public static int incrementOne(int i) {
         return i + 1;
     }
+    public static float multiplyInts (int i, int j) {
+        return (float) i * j;
+    }
 }
